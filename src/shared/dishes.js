@@ -2,38 +2,38 @@ export const DISHES =
     [
         {
         id: 0,
-        name:'Uthappizza',
-        image: '/assets/images/uthappizza.png',
+        name:'Country-Special Pizza',
+        image: '/assets/images/pizza.png',
         category: 'mains',
         label:'Hot',
         price:'4.99',
         featured: true,
-        description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.'                    
+        description:'A unique combination of Vegetable and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, onion, chillies and Cottage Cheese.'                    
         },
         {
         id: 1,
-        name:'Zucchipakoda',
-        image: '/assets/images/zucchipakoda.png',
+        name:'Breadpakoda',
+        image: '/assets/images/pakoda.png',
         category: 'appetizer',
         label:'',
         price:'1.99',
         featured: false,
-        description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'
+        description:'Deep fried Bread with mashed potato coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'
         },
         {
         id: 2,
-        name:'Vadonut',
-        image: '/assets/images/vadonut.png',
+        name:'Vada',
+        image: '/assets/images/vada.png',
         category: 'appetizer',
         label:'New',
         price:'1.99',
         featured: false,
-        description:'A quintessential ConFusion experience, is it a vada or is it a donut?'
+        description:'A quintessential experience, is it a vada or is it a donut?'
         },
         {
         id: 3,
-        name:'ElaiCheese Cake',
-        image: '/assets/images/elaicheesecake.png',
+        name:'Cheese Cake',
+        image: '/assets/images/cheesecake.png',
         category: 'dessert',
         label:'',
         price:'2.99',
